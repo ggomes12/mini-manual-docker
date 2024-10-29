@@ -1,0 +1,3 @@
+Obs: Para uma melhor visualização do mini-manual, abra-o com o Preview do vscode (visualizador de arquivos .MD)
+ou leia-o no próprio github https://github.com/ggomes12/mini-manual-docker.git
+
