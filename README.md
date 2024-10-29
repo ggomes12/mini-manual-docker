@@ -1,7 +1,7 @@
 # Mini-manual de Funcionalidades do Docker
 
 Obs: Para uma melhor visualização do mini-manual, abra-o com o Preview do vscode (visualizador de arquivos .MD)
-ou leia-o no próprio github
+ou leia-o no próprio github https://github.com/ggomes12/mini-manual-docker.git
 
 ## a. Dockerfile
 ### O que é?
