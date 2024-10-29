@@ -142,7 +142,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```bash
     nano Dockerfile
     ```
-![Imagem 01 - ](/home/guilhermegomes/Documents/03-SD/lista05/01.png)
+![Imagem 01 - ](/img/01.png)
 
 3. Insira o seguinte conteúdo no `Dockerfile`:
     ```Dockerfile
@@ -153,7 +153,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 4. Salve e saia do editor (`Ctrl + X`, depois `Y`, depois `Enter`).
 
-![Imagem 02 - ](/home/guilhermegomes/Documents/03-SD/lista05/02.png)
+![Imagem 02 - ](/img/.png)
 
 ### Passo 2: Criar um arquivo de exemplo
 1. Crie um arquivo de texto:
@@ -168,7 +168,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 03 - ](/home/guilhermegomes/Documents/03-SD/lista05/03.png)
+![Imagem 03 - ](/img/02.png)
 
 ### Passo 4: Rodar o container
 1. Execute o container a partir da imagem:
@@ -177,7 +177,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 04 - ](/home/guilhermegomes/Documents/03-SD/lista05/04.png)
+![Imagem 04 - ](/img/03.png)
 
 ---
 
@@ -196,7 +196,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     docker volume ls
     ```
 
-![Imagem 05 - ](/home/guilhermegomes/Documents/03-SD/lista05/05.png)
+![Imagem 05 - ](/img/05.png)
 
 ### Passo 3: Executar um container com o volume
 1. Execute um container usando o volume criado:
@@ -210,7 +210,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     docker volume inspect volume_mini_manual
     ```
 
-![Imagem 06 - ](/home/guilhermegomes/Documents/03-SD/lista05/06.png)
+![Imagem 06 - ](/img/06.png)
 
 ### Passo 5: Buildar o volume
 1. Build o volume:
@@ -218,7 +218,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     docker build -t volume_nginx .
     ```
 
-![Imagem 06 - ](/home/guilhermegomes/Documents/03-SD/lista05/07.png)
+![Imagem 06 - ](/img/07.png)
 
 
 ### Passo 5: Executar o container
@@ -233,7 +233,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     curl http://localhost:8080
     ```
 
-![Imagem 06 - ](/home/guilhermegomes/Documents/03-SD/lista05/08.png)
+![Imagem 06 - ](/img/08.png)
 
 
 ---
@@ -253,7 +253,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 06 - ](/home/guilhermegomes/Documents/03-SD/lista05/09.png)
+![Imagem 06 - ](/img/09.png)
 
 
 ### Passo 3: Baixar uma imagem do Docker Hub
@@ -263,7 +263,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 06 - ](/home/guilhermegomes/Documents/03-SD/lista05/10.png)
+![Imagem 06 - ](/img/10.png)
 
 ## Esse mini-manual cobre os principais recursos do Dockerfile, volumes e gerenciamento de imagens, com comandos e exemplos para testar cada funcionalidade.
 ### Aluno: Guilherme Kelvin da Silva Gomes
