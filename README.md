@@ -153,7 +153,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 4. Salve e saia do editor (`Ctrl + X`, depois `Y`, depois `Enter`).
 
-![Imagem 02 - ](/img/.png)
+![Imagem 02 - ](/img/02.png)
 
 ### Passo 2: Criar um arquivo de exemplo
 1. Crie um arquivo de texto:
@@ -168,7 +168,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 03 - ](/img/02.png)
+![Imagem 03 - ](/img/03.png)
 
 ### Passo 4: Rodar o container
 1. Execute o container a partir da imagem:
@@ -177,7 +177,7 @@ O gerenciamento de imagens no Docker refere-se ao processo de criar, listar, exc
     ```
 
 
-![Imagem 04 - ](/img/03.png)
+![Imagem 04 - ](/img/04.png)
 
 ---
 
